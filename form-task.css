@@ -1,0 +1,52 @@
+
+div {
+    height: 100%;
+    width: 40%;
+    border: 5px solid black;
+    text-align: center;
+    border-radius: 5%;
+    background-color: white;
+    text-decoration: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#name {
+    width:400px;
+    margin: 8px 0;
+    border: none;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border-bottom: 2px solid black;
+}
+#email {
+    width: 400px;
+    margin: 8px 0;
+    border: none;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border-bottom: 2px solid black;
+}
+#password {
+    width: 400px;
+    margin: 8px 0;
+    border: none;
+    padding: 12px 20px;
+    box-sizing:border-box;
+    border-bottom: 2px solid black;
+}
+#confirm-password {
+    width: 400px;
+    margin: 8px 0;
+    border: none;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border-bottom: 2px solid black;
+}
+
+#underline {
+    width: 50%;
+}
+body {
+    background: linear-gradient(to right,rgb(54, 54, 217) 50%,rgb(176, 36, 176) 50%);
+}

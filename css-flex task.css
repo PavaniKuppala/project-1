@@ -1,0 +1,27 @@
+#navbar {
+    width: 65%;
+    height: 10px;
+    align-items: center;
+    background-color: antiquewhite;
+}
+.flex-container {
+    display: flex;
+   
+    width: 65%;
+    margin: 3px auto;
+    height: 195px;
+    color: white;
+    justify-content: flex-starts;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.flex-container div {
+    
+   
+    border: 3px solid rgb(135, 191, 214);
+    background-color: rgb(116, 116, 222);
+    width: 50px;
+    padding: 30px;
+    font-weight: 700;
+    border: 1px solid white;
+}

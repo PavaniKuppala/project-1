@@ -1,0 +1,9 @@
+#hiddenparagraph {
+    
+    display: none;
+}
+
+button:active #hiddenparagraph {
+    display: block;
+    color:black
+}
